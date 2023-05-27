@@ -8,5 +8,6 @@ public class demo {
         System.out.println("chentuo is good student4");
         System.out.println("master test");
         System.out.println("master push");
+        System.out.println("master pull");
     }
 }
